@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Discovery" verbose="1" >
+  <test name="deliveryOptions" >
+    <classes>
+    
+      <class name="testPackage.SubscriptionMoDMedalResearchOffice"/>
+      
+      
+      
+      </classes>
+ </test>
+</suite>
