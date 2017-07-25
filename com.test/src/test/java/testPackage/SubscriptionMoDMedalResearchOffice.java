@@ -54,6 +54,8 @@ public class SubscriptionMoDMedalResearchOffice {
 
 		Assert.assertTrue(subcriptioncheck.contains("DigitizedDiscovery"));
 		
+		System.out.println("Github updated");
+		
 		driver.quit();
 		
 		
